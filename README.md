@@ -24,4 +24,11 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 1.vue init webpack yanxuanv
 vue init 模板选择 项目名
 
-2.
+2.git操作
+git init add. commit 复制空包内的关联代码 推送 创建dev分支
+
+3.src （组件 vuex ajax 路由器）
+基本组件 components
+自定义过滤器 filters
+
+
