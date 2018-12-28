@@ -1,5 +1,5 @@
 <template>
-  <div></div>
+  <div id="app">123</div>
 </template>
 
 <script>
@@ -7,5 +7,6 @@
 </script>
 
 <style lang="stylus" rel="stylesheet/stylus" scoped>
-
+  #app
+    color red
 </style>
