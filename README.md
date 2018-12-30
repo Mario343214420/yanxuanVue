@@ -34,5 +34,11 @@ git init add. commit 复制空包内的关联代码 推送 创建dev分支
 4.pages
 
 5.router
+写路由配置路由
+6.App.vue中进行组织
 
+<router-view/>
+<FooterGuide/>
 
+引入注册
+7.footer
