@@ -48,7 +48,7 @@ footer
   right 0
   bottom 0
   width 100%
-
+  background-color: #fff;
   height px2rem(100)
   a
     color #666

@@ -132,6 +132,19 @@
             padding 0 px2rem(26)
             font-size px2rem(28)
             font-weight 0
+            &.active
+            span
+              color $main
+              position relative
+              &:after{
+                content ''
+                left 0
+                bottom 0
+                position absolute
+                width 100%
+                height px2rem(4)
+                background-color $main
+              }
 
       .ms-navRight
         display inline-block
