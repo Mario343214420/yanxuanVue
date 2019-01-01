@@ -65,6 +65,7 @@
         display flex
         flex-direction column
         align-items center
+        margin-top px2rem(25)
         >img
           width 80%
           height 80%
